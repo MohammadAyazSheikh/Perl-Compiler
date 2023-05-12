@@ -1,0 +1,1011 @@
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,identifier,function
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+fszsdsds,identifier,function
+;,punctuation,statement separator
+as12,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+sd,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+a,identifier,function
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator
+NAME,TYPE,DESCRIPTION
+sub,keyword,Keyword that declares a subroutine
+isEven,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num,identifier,variable
+=,assignment Operator,assignment operator
+shift,keyword,Removes and returns the first element from an array
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$num,identifier,variable
+%,arithmetic Operator,modulus operator
+2,number,this a valid number
+==,comparison Operator,equal to operator
+0,number,this a valid number
+;,punctuation,statement separator
+},punctuation,closing curly brace
+sub,keyword,Keyword that declares a subroutine
+add_numbers,identifier,function
+{,punctuation,opening curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$num1,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+0,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$num2,identifier,variable
+=,assignment Operator,assignment operator
+$_,identifier,variable
+[,punctuation,opening square bracket
+1,number,this a valid number
+],punctuation,closing square bracket
+;,punctuation,statement separator
+my,keyword,keyword that declares a lexically scoped variable.
+$sum,identifier,variable
+=,assignment Operator,assignment operator
+$num1,identifier,variable
++,arithmetic Operator,addition operator
+$num2,identifier,variable
+;,punctuation,statement separator
+return,keyword,Statement that returns a value from a subroutine
+$sum,identifier,variable
+;,punctuation,statement separator
+},punctuation,closing curly brace
+my,keyword,keyword that declares a lexically scoped variable.
+$result,identifier,variable
+=,assignment Operator,assignment operator
+add_numbers,identifier,function
+(,punctuation,opening parenthesis
+3,number,this a valid number
+,,punctuation,function argument separator
+5,number,this a valid number
+),punctuation,closing parenthesis
+;,punctuation,statement separator

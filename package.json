@@ -1,0 +1,15 @@
+{
+  "name": "peral-compiler",
+  "version": "1.0.0",
+  "description": "this is basic pearl compiler built in javascript",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ayaz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
